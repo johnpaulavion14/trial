@@ -76,12 +76,11 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add e-wallet payment processing feature
-- [x] Add Google Maps Api
+- [x] Add Graph of Total Income 
 - [ ] Complete the front end
-- [ ] Add credit card processing feature
-- [ ] Add dashboard component
-- [ ] Add messaging feature
+- [ ] Add List of Expenses 
+- [ ] Add Payment through Gcash
+- [ ] Add Connection to Printer to print receipt
 
 See the [open issues](https://github.com/23nith/calamity-prevention-app-be/issues) for a full list of proposed features (and known issues).
 
