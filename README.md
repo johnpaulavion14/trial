@@ -13,11 +13,9 @@
   <p align="center">
     <a href="https://23nith.github.io/calamity-response-app-fe/#/">View Demo</a>
     ·
-    <a href="https://github.com/23nith/calamity-prevention-app-be/issues">Report Bug</a>
+    <a href="https://github.com/johnpaulavion14/Cafe_Management-Final_Project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/23nith/calamity-prevention-app-be/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/23nith/calamity-response-app-fe/tree/master">Front-End Repo</a>
+    <a href="https://github.com/johnpaulavion14/Cafe_Management-Final_Project/issues">Request Feature</a>
   </p>
 </div>
 
@@ -82,7 +80,7 @@
 - [ ] Add Payment through Gcash
 - [ ] Add Connection to Printer to print receipt
 
-See the [open issues](https://github.com/23nith/calamity-prevention-app-be/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/johnpaulavion14/Cafe_Management-Final_Project/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
