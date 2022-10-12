@@ -35,7 +35,7 @@
     <img src="https://23nith.github.io/calamity-response-app-fe/static/media/app_logo.af95baea6f2d0e1b8168.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Calamity Response App</h3>
+  <h3 align="center">Cafe Management App</h3>
 
   <p align="center">
 <!--     An awesome README template to jumpstart your projects! -->
