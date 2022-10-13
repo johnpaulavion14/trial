@@ -1,5 +1,9 @@
 test "create a task for a specific category" do
     create = Task.create()
+<<<<<<< HEAD
   end
 
   added asdfsadfdasfadsfsadfsadfasdfd
+=======
+  end
+>>>>>>> refs/remotes/origin/main
