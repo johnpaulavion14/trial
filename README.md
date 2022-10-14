@@ -4,8 +4,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/23nith/calamity-prevention-app-be">
-    <img src="https://23nith.github.io/calamity-response-app-fe/static/media/app_logo.af95baea6f2d0e1b8168.png" alt="Logo" width="300" height="300">
+  <a href="https://github.com/johnpaulavion14/Cafe_Management_App">
+    <img src="https://user-images.githubusercontent.com/98794712/195842959-817b1ae5-585b-4d11-bb5b-99bd560afcfc.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Cafe Management App</h3>
