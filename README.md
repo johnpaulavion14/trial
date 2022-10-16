@@ -1,14 +1,9 @@
-# Minimum Viable Product (MVP)
-
-<div id="top"></div>
-
 <br />
 <div align="center">
+  <h3 align="center">Cafe Management App</h3>
   <a href="https://github.com/johnpaulavion14/Cafe_Management_App">
     <img src="https://user-images.githubusercontent.com/98794712/195842959-817b1ae5-585b-4d11-bb5b-99bd560afcfc.jpg" alt="Logo" width="300" height="300">
   </a>
-
-  <h3 align="center">Cafe Management App</h3>
 
   <p align="center">
     <a href="https://23nith.github.io/calamity-response-app-fe/#/">View Demo</a>
@@ -47,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Cafe Management App is made for entrepreneurs to help manage small business.This app helps you take orders faster and print their receipt. Just create your product with price then your ready to sell. It can help you monitor all the orders, number of products sold, calculate all your income by range of dates, and generate graph. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -56,8 +51,9 @@
 ### Built With
 
 
-* [Ruby On Rails](https://rubyonrails.org/)
-* [Bootstrap](https://getbootstrap.com)
+* [Ruby 3.1.2](https://www.ruby-lang.org/)
+* [Rails 7.0.4](https://rubyonrails.org/)
+* [Bootstrap 5.2.2](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
