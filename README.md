@@ -1,4 +1,5 @@
 <br />
+<div id="top"></div>
 <div align="center">
   <h3 align="center">Cafe Management App</h3>
   <a href="https://github.com/johnpaulavion14/Cafe_Management_App">
@@ -13,8 +14,6 @@
     <a href="https://github.com/johnpaulavion14/Cafe_Management-Final_Project/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -37,36 +36,42 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Cafe Management App is made for entrepreneurs to help manage small business.This app helps you take orders faster and print their receipt. Just create your product with price then your ready to sell. It can help you monitor all the orders, number of products sold, calculate all your income by range of dates, and generate graph. 
+Cafe Management App is a one-stop platform made for entrepreneurs to help manage their small business. This app is everything you need to run your operation smoothly from taking orders to printing receipts. Just upload your product and create your price list and you're ready to sell. You can also monitor your sales, top products sold, calculate your income by range of dates, and generate a graph for easy analytics.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Features
+* Shop owners may signup or log in
+* Shop owners can create their product list and add their respective prices and upload a photo of each product
+* Shop owners can transact faster by adding the quantity of the chosen product before they checkout
+* Shop owners can print receipts with the name of the shop, location, date of purchase, and the store's contact number, and calculate the total price with tax
+* Shop owners can see all order transactions and sold products and can be sorted by range of dates
+* Shop owners can see the graph of all orders and top-sold products and can be filtered by a range of dates
+* Shop owners can sort sold products by product_name, price, quantity, and total price
+* Shop owners can print the summary of total income per day, week, month, year or by the range of dates
 
-
-
-### Built With
-
-
+## Built With
 * [Ruby 3.1.2](https://www.ruby-lang.org/)
 * [Rails 7.0.4](https://rubyonrails.org/)
 * [Bootstrap 5.2.2](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-### Prerequisites
-## Usage
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+## Setup
+```
+ $ bundle install
+ $ rake db:setup
+```
+ 
+## Starting the application
+```
+ $ rails server
+```
+## Running the test suite
+```
+ $ rspec
+```
 <!-- ROADMAP -->
 ## Roadmap
 
