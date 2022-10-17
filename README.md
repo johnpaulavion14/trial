@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    <a href="https://23nith.github.io/calamity-response-app-fe/#/">View Demo</a>
+    <a href="https://github.com/johnpaulavion14/Cafe_Management_App">View Demo</a>
     ·
     <a href="https://github.com/johnpaulavion14/Cafe_Management-Final_Project/issues">Report Bug</a>
     ·
